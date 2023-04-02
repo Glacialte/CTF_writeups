@@ -1,2 +1,2 @@
-# CTF
-学んだことを載せます
+# CTF_writeups
+参加したCTFのwriteupを載せます。
